@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ROBJAYGONZALES@GMAIL.COM 
+        <a href="https://www.facebook.com/robertjaygonzales.5" target="_blank">Visit my Facebook</a>
+
         </p>
         <a
           className="App-link"
